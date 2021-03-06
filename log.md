@@ -1,7 +1,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 0: February 28, 2021 
+### Day 0: March 5, 2021 
 
 
 **Today's Progress**: Learning GitHub, Forking, Clonning, Committing and Pull Requests. 
